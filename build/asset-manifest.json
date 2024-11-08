@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/static/css/main.52c070c0.css",
+    "main.js": "/static/js/main.b9f1797f.js",
+    "static/media/SpiralReports Logo White.jpg": "/static/media/SpiralReports Logo White.46db24f8d5705cfad6a7.jpg",
+    "index.html": "/index.html",
+    "main.52c070c0.css.map": "/static/css/main.52c070c0.css.map",
+    "main.b9f1797f.js.map": "/static/js/main.b9f1797f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.52c070c0.css",
+    "static/js/main.b9f1797f.js"
+  ]
+}
